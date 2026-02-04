@@ -1,0 +1,11 @@
+
+{
+  "name": "Steady Heart Diary",
+  "description": "A private, grounding sanctuary for your thoughts. Designed to be a gentle, non-demanding companion for emotional growth.",
+  "requestFramePermissions": [],
+  "short_name": "SteadyHeart",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}
